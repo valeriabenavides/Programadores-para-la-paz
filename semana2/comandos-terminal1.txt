@@ -1,0 +1,25 @@
+ls
+cd programadores-para-la-paz
+mkdir semana2
+cd semana2 
+
+touch preguntas-semana2.txt
+ls preguntas-semana2.txt 
+nano preguntas-semana2.txt
+cat preguntas-semana2.txt
+ 
+touch reflexion-semana2.txt
+ls reflexion-semana2.txt
+nano reflexion-semana2.txt
+cat reflexion-semana2.txt
+
+touch comandos-terminal1.txt
+ls comandos-terminal1.txt
+nano comandos-terminal.txt
+cat comandos-terminal.txt
+
+cd..
+git status
+git add
+git commit 
+git push 
