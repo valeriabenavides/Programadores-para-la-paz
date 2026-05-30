@@ -1,0 +1,8 @@
+http://localhost:3000
+Al ingresar a esta ruta aparece el mensaje "Servidor activo", lo que indica que el servidor está funcionando correctamente 
+
+http://localhost:3000/saludo
+Esta ruta nuestra el mensaje "Hola comunidad" funcionando como una respuesta de saludo creada por el servidor 
+
+http://localhost:3000/mensaje/juan
+En esta ruta aparece "Hola Juan", lo que muestra que el servidor toma el nombre escrito en la URL y genera un saludo personalizado 

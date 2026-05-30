@@ -1,0 +1,7 @@
+•¿Que hace esta ruta?
+
+Esta ruta usa el método POST en el endpoint /reporte, lo que significa que está diseñada para recibir y enviar información. En la imagen se observa que al enviar un mensaje en formato JSON, el servidor responde con “Reporte recibido”, confirmando que la información llegó correctamente.
+
+•Para que podría servir en una aplicación comunitaria?
+
+En una aplicación comunitaria podría servir para que las personas reporten situaciones o necesidades del barrio o comunidad, por ejemplo daños en vías, problemas de seguridad, falta de servicios o actividades comunitarias. Así la plataforma recibe el reporte y confirma que fue registrado para su seguimiento.
